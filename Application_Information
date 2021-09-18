@@ -1,8 +1,12 @@
-Policy Dukan is a theme build on Mean Stack wtih following features
+Policy Dukan is a application build on Mean Stack wtih following features
 
 1 SPA web application
 2 Registeration system
 3 Login System
 4 Responsive Design
+5 Admin Dash Board
+6 Admin Dash Board can control the website media and content
+7 User Portal with login and registeration
+
 
 Application Url = https://policy-dukan.herokuapp.com/
